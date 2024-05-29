@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-	background-color: #181a1b;
+	background-color: #798081;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #798081;
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
@@ -50,20 +50,20 @@ header .highlight, header .current a {
 }
 
 header a:hover {
-    color: #77b300;
+    color: #798081;
     font-weight: bold;
 }
 
 section {
     padding: 20px 0;
-    border-bottom: #77b300 1px solid;
+    border-bottom: #fff 1px solid;
 }
 
 footer {
     padding: 20px;
     margin-top: 20px;
     color: #fff;
-    background-color: #333;
+    background-color:#798081 ;
     text-align: center;
 }
 
@@ -77,11 +77,11 @@ ul {
 }
 
 a {
-    color: #333;
+    color: #fff ;
 }
 
 a:hover {
-    color: #77b300;
+    color: #798081;
 }
 
 .project {
